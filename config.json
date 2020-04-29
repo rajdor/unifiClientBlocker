@@ -1,0 +1,10 @@
+{
+  "controller":"192.168.1.7"
+ ,"user":"admin"
+ ,"password":"password"
+ ,"clients":  [
+   { "device" : "Iphone"   , "mac" : "00:00:00:00:00:00"}
+  ,{ "device" : "XBoxOne"  , "mac" : "00:00:00:00:00:00"}
+  ,{ "device" : "kidsPC"   , "mac" : "00:00:00:00:00:00"}     
+ ]
+}
